@@ -17,7 +17,7 @@ pip3 install sounddevice soundfile numpy requests
 
 # 4. 拉取程序文件
 mkdir -p ~/EchoTest && cd ~/EchoTest
-curl -O https://raw.githubusercontent.com/EsssNi/EchoEchoTest/main/echo_test.py
+curl -O https://github.com/EsssNi/EchoEchoTest/blob/main/echo_test.py
 
 # 5. 触发麦克风权限
 echo "🎤 正在触发麦克风权限弹窗（若弹出，请点击 允许）..."
